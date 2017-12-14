@@ -1,0 +1,20 @@
+{{>header}}
+
+{{^authenticated}}
+<h1>Hi! Sign up today!</h1>
+{{/authenticated}}
+{{#authenticated}}
+<h1>Hi!</h1>
+<p>Your unique account ID is: <code>{{accountID}}</code></p>
+{{/authenticated}}
+
+<p>Check out the following resources about Turnstile:</p>
+
+<ul>
+<li><a href="https://github.com/PerfectlySoft/Perfect">Perfect on GitHub</a></li>
+<li><a href="https://github.com/PerfectlySoft/Perfect-Turnstile-PostgreSQL">Perfect Turnstile PostgreSQL Auth on GitHub</a></li>
+<li><a href="https://github.com/PerfectExamples/Perfect-Turnstile-PostgreSQL-Demo">Perfect Turnstile PostgreSQL Demo on GitHub</a></li>
+<li><a href="https://github.com/stormpath/Turnstile">Turnstile on GitHub</a></li>
+</ul>
+
+{{>footer}}
