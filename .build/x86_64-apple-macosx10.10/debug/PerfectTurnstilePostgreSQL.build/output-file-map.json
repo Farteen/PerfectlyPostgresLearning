@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/master.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/Account.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Account.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Account.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Account~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Account.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/AuthHandlersJSON.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersJSON.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersJSON.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersJSON.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/AuthHandlersWeb.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersWeb.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersWeb.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersWeb~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/AuthHandlersWeb.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/JSONRoutes.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/JSONRoutes.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/JSONRoutes.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/JSONRoutes~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/JSONRoutes.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/Realm.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Realm.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Realm.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Realm~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Realm.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/SessionManager.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/SessionManager.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/SessionManager.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/SessionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/SessionManager.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/Tokens.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Tokens.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Tokens.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Tokens~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/Tokens.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/TurnstilePerfectRealm.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/TurnstilePerfectRealm.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/TurnstilePerfectRealm.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/TurnstilePerfectRealm~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/TurnstilePerfectRealm.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/WebRoutes.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/WebRoutes.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/WebRoutes.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/WebRoutes~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.build/WebRoutes.swiftdeps"
+  }
+}

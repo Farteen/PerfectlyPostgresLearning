@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/master.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLRequest.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequest.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequest.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequest.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLRequestOptions.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequestOptions.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequestOptions.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequestOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLRequestOptions.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLResponse.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponse.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponse.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponse.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLResponseInfos.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponseInfos.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponseInfos.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponseInfos~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/CURLResponseInfos.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/cURL.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/cURL.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/cURL.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/cURL~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.build/cURL.swiftdeps"
+  }
+}

@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "223fdff122ed5f0204fd5ee3cb0b4c14"
+build_time: [1512460527, 441788000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [1512115709, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [1512115709, 0]

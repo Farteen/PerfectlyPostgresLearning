@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "c15c1b0fb436276a9777d8a979208cb1"
+build_time: [1512460526, 257527000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Bytes.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Dir.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/File.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/JSONConvertible.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Log.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectError.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/PerfectServer.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SwiftCompatibility.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/SysProcess.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/PerfectLib.git-3712999737848873669/Sources/PerfectLib/Utilities.swift": [1512115708, 0]

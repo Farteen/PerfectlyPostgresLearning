@@ -1,0 +1,320 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "pturnstile"
+- "auth"
+- "server"
+- "authWebRoutes"
+- "authJSONRoutes"
+- "routes"
+- "myLogger"
+- "authenticationConfig"
+- "authFilter"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "AccessTokenStore"
+- "Array"
+- "AssignmentPrecedence"
+- "AuthAccount"
+- "AuthFilter"
+- "AuthHandlersJSON"
+- "AuthenticationConfig"
+- "FloatLiteralType"
+- "HTTPServer"
+- "IntegerLiteralType"
+- "PLWeChatLoginHandler"
+- "PerfectError"
+- "PostgresConnector"
+- "RequestLogFile"
+- "RequestLogger"
+- "Routes"
+- "StringLiteralType"
+- "TurnstilePerfectRealm"
+- "UnicodeScalarType"
+- "auth"
+- "authFilter"
+- "authJSONRoutes"
+- "authWebRoutes"
+- "authenticationConfig"
+- "makeJSONAuthRoutes"
+- "makeWebAuthRoutes"
+- "myLogger"
+- "print"
+- "pturnstile"
+- "routes"
+- "server"
+- "tokenStore"
+depends-member:
+- ["26PerfectTurnstilePostgreSQL16AccessTokenStoreC", "init"]
+- ["26PerfectTurnstilePostgreSQL16AccessTokenStoreC", "setup"]
+- ["9Turnstile7AccountP", "init"]
+- ["9Turnstile7AccountP", "setup"]
+- ["26PerfectTurnstilePostgreSQL11AuthAccountC", "init"]
+- ["26PerfectTurnstilePostgreSQL11AuthAccountC", "setup"]
+- ["16TurnstilePerfect10AuthFilterV", "init"]
+- ["26PerfectTurnstilePostgreSQL16AuthHandlersJSONC", "testHandler"]
+- ["16TurnstilePerfect20AuthenticationConfigV", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- ["s7CVarArgP", "init"]
+- ["s10CollectionP", "init"]
+- ["s10ComparableP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "get"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "post"]
+- ["s9DecodableP", "init"]
+- ["s9EncodableP", "init"]
+- ["s9EquatableP", "get"]
+- ["s9EquatableP", "high"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "low"]
+- ["s9EquatableP", "post"]
+- ["s5ErrorP", "networkError"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["11PerfectHTTP18HTTPFilterPriorityO", "high"]
+- ["11PerfectHTTP18HTTPFilterPriorityO", "low"]
+- ["11PerfectHTTP10HTTPMethodO", "get"]
+- ["11PerfectHTTP10HTTPMethodO", "post"]
+- ["11PerfectHTTP17HTTPRequestFilterP", "init"]
+- ["11PerfectHTTP18HTTPResponseFilterP", "init"]
+- ["17PerfectHTTPServer0B0C", "addRoutes"]
+- ["17PerfectHTTPServer0B0C", "documentRoot"]
+- ["17PerfectHTTPServer0B0C", "init"]
+- ["17PerfectHTTPServer0B0C", "serverPort"]
+- ["17PerfectHTTPServer0B0C", "setRequestFilters"]
+- ["17PerfectHTTPServer0B0C", "setResponseFilters"]
+- ["17PerfectHTTPServer0B0C", "start"]
+- ["s8HashableP", "get"]
+- ["s8HashableP", "high"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "low"]
+- ["s8HashableP", "post"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- ["30PerfectTurnstilePostgreSQLDemo20PLWeChatLoginHandlerC", "testHandler"]
+- ["10PerfectLib0A5ErrorO", "networkError"]
+- ["13PostgresStORM0A9ConnectorV", "database"]
+- ["13PostgresStORM0A9ConnectorV", "host"]
+- ["13PostgresStORM0A9ConnectorV", "password"]
+- ["13PostgresStORM0A9ConnectorV", "port"]
+- ["13PostgresStORM0A9ConnectorV", "username"]
+- ["13PostgresStORMAAC", "init"]
+- ["13PostgresStORMAAC", "setup"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["20PerfectRequestLogger0B7LogFileV", "location"]
+- ["20PerfectRequestLogger0bC0C", "init"]
+- ["11PerfectHTTP6RoutesV", "add"]
+- ["11PerfectHTTP6RoutesV", "init"]
+- ["s8SequenceP", "init"]
+- ["17PerfectHTTPServer14ServerInstanceP", "addRoutes"]
+- ["17PerfectHTTPServer14ServerInstanceP", "documentRoot"]
+- ["17PerfectHTTPServer14ServerInstanceP", "init"]
+- ["17PerfectHTTPServer14ServerInstanceP", "serverPort"]
+- ["17PerfectHTTPServer14ServerInstanceP", "setRequestFilters"]
+- ["17PerfectHTTPServer14ServerInstanceP", "setResponseFilters"]
+- ["17PerfectHTTPServer14ServerInstanceP", "start"]
+- ["5StORMAAC", "init"]
+- ["5StORMAAC", "setup"]
+- ["5StORM0A11ORMProtocolP", "init"]
+- ["5StORM0A11ORMProtocolP", "setup"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["26PerfectTurnstilePostgreSQL0bA5RealmC", "init"]
+- ["26PerfectTurnstilePostgreSQL0bA5RealmC", "requestFilter"]
+- ["26PerfectTurnstilePostgreSQL0bA5RealmC", "responseFilter"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "26PerfectTurnstilePostgreSQL16AccessTokenStoreC"
+- "9Turnstile7AccountP"
+- "26PerfectTurnstilePostgreSQL11AuthAccountC"
+- "16TurnstilePerfect10AuthFilterV"
+- "26PerfectTurnstilePostgreSQL16AuthHandlersJSONC"
+- "16TurnstilePerfect20AuthenticationConfigV"
+- "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- "s5ErrorP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "11PerfectHTTP18HTTPFilterPriorityO"
+- "11PerfectHTTP10HTTPMethodO"
+- "11PerfectHTTP17HTTPRequestFilterP"
+- "11PerfectHTTP18HTTPResponseFilterP"
+- "17PerfectHTTPServer0B0C"
+- "s8HashableP"
+- "10PerfectLib15JSONConvertibleP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- "30PerfectTurnstilePostgreSQLDemo20PLWeChatLoginHandlerC"
+- "10PerfectLib0A5ErrorO"
+- "13PostgresStORM0A9ConnectorV"
+- "13PostgresStORMAAC"
+- "s26RangeReplaceableCollectionP"
+- "20PerfectRequestLogger0B7LogFileV"
+- "20PerfectRequestLogger0bC0C"
+- "11PerfectHTTP6RoutesV"
+- "s8SequenceP"
+- "17PerfectHTTPServer14ServerInstanceP"
+- "5StORMAAC"
+- "5StORM0A11ORMProtocolP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "26PerfectTurnstilePostgreSQL0bA5RealmC"
+- "s23_BidirectionalIndexableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectXML.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQL.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectPostgreSQL.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/StORM.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PostgresStORM.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectHTTP.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileWeb.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectThread.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectMustache.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/Turnstile.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/SwiftString.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/SwiftRandom.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCrypto.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectLogger.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectRequestLogger.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectHTTPServer.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstilePerfect.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/SwiftMoment.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../zlib.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/czlib.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/usr/local/include/libpq-fe.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../zconf.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../zutil.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/../inftrees.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../cms.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/usr/local/include/pg_config_ext.h"
+- "/usr/local/include/postgres_ext.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-libxml2.git--1407945982793290600/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-libpq.git--8949598514366864844/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-libcurl.git--6269865819486613555/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "b86e05ec676ffc5e0339751d4f9a7beb"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "f85681596fe46bac7e9e6acd5132d254"
+build_time: [1512470315, 625007000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/Sources/PLWeChatLoginHandler.swift": [1512461548, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/Sources/main.swift": [1512461559, 0]

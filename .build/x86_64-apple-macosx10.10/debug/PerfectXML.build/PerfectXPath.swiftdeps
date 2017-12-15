@@ -1,0 +1,391 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "XPathObject"
+provides-nominal:
+- "10PerfectXML11XPathObjectO"
+provides-member:
+- ["10PerfectXML11XPathObjectO", ""]
+- ["10PerfectXML5XNodeC", ""]
+- ["10PerfectXML5XNodeC", "extract"]
+- ["10PerfectXML5XNodeC", "extractOne"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "..<"
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- "Double"
+- !private "FloatLiteralType"
+- !private "Int"
+- !private "Int8"
+- !private "IntegerLiteralType"
+- "String"
+- !private "StringLiteralType"
+- !private "Unmanaged"
+- !private "UnsafeMutableRawPointer"
+- !private "UnsafeRawPointer"
+- !private "XErrorTracker"
+- !private "XML_ELEMENT_NODE"
+- !private "XML_NAMESPACE_DECL"
+- "XNode"
+- !private "XPATH_BOOLEAN"
+- !private "XPATH_NODESET"
+- !private "XPATH_NUMBER"
+- "XPathObject"
+- !private "fromNodePtr"
+- !private "print"
+- !private "xmlDocGetRootElement"
+- !private "xmlFree"
+- !private "xmlNode"
+- "xmlNodePtr"
+- !private "xmlNs"
+- !private "xmlNsPtr"
+- !private "xmlSearchNs"
+- !private "xmlXPathCastToBoolean"
+- !private "xmlXPathCastToNumber"
+- !private "xmlXPathCastToString"
+- !private "xmlXPathContextPtr"
+- !private "xmlXPathEval"
+- !private "xmlXPathFreeContext"
+- !private "xmlXPathFreeObject"
+- !private "xmlXPathNewContext"
+- !private "xmlXPathObjectPtr"
+- !private "xmlXPathRegisterNs"
+- !private "~="
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "first"]
+- !private ["Sa", "init"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "first"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "advanced"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "pointee"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "first"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "advanced"]
+- !private ["s10ComparableP", "assumingMemoryBound"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "pointee"]
+- !private ["s28CustomDebugStringConvertibleP", "advanced"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "assumingMemoryBound"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "pointee"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "advanced"]
+- !private ["s29CustomPlaygroundQuickLookableP", "assumingMemoryBound"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "pointee"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "advanced"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "assumingMemoryBound"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "pointee"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "Int8"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "Unmanaged"]
+- !private ["s23CustomStringConvertibleP", "UnsafeMutableRawPointer"]
+- !private ["s23CustomStringConvertibleP", "UnsafeRawPointer"]
+- !private ["s23CustomStringConvertibleP", "XErrorTracker"]
+- !private ["s23CustomStringConvertibleP", "XML_ELEMENT_NODE"]
+- !private ["s23CustomStringConvertibleP", "XML_NAMESPACE_DECL"]
+- !private ["s23CustomStringConvertibleP", "XNode"]
+- !private ["s23CustomStringConvertibleP", "XPATH_BOOLEAN"]
+- !private ["s23CustomStringConvertibleP", "XPATH_NODESET"]
+- !private ["s23CustomStringConvertibleP", "XPATH_NUMBER"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "asConcreteNode"]
+- !private ["s23CustomStringConvertibleP", "extract"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "fromNodePtr"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "initializeContext"]
+- !private ["s23CustomStringConvertibleP", "nodePtr"]
+- !private ["s23CustomStringConvertibleP", "nodeType"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "translateXPath"]
+- !private ["s23CustomStringConvertibleP", "xPathTargetNode"]
+- !private ["s23CustomStringConvertibleP", "xmlDocGetRootElement"]
+- !private ["s23CustomStringConvertibleP", "xmlFree"]
+- !private ["s23CustomStringConvertibleP", "xmlNode"]
+- !private ["s23CustomStringConvertibleP", "xmlNs"]
+- !private ["s23CustomStringConvertibleP", "xmlSearchNs"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathCastToBoolean"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathCastToNumber"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathCastToString"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathEval"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathFreeContext"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathFreeObject"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathNewContext"]
+- !private ["s23CustomStringConvertibleP", "xmlXPathRegisterNs"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "assumingMemoryBound"]
+- !private ["s9DecodableP", "first"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "assumingMemoryBound"]
+- !private ["s9EncodableP", "first"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "advanced"]
+- !private ["s9EquatableP", "assumingMemoryBound"]
+- !private ["s9EquatableP", "documentNode"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "pointee"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "assumingMemoryBound"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "advanced"]
+- !private ["s8HashableP", "assumingMemoryBound"]
+- !private ["s8HashableP", "documentNode"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "pointee"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "first"]
+- !private ["s17MutableCollectionP", "init"]
+- !private ["s7NumericP", "init"]
+- !private ["Sq", "assumingMemoryBound"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "first"]
+- !private ["s22RandomAccessCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "first"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "first"]
+- !private ["s8SequenceP", "init"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "advanced"]
+- !private ["s10StrideableP", "assumingMemoryBound"]
+- !private ["s10StrideableP", "init"]
+- !private ["s10StrideableP", "pointee"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s9UnmanagedV", "fromOpaque"]
+- !private ["s9UnmanagedV", "passUnretained"]
+- !private ["s9UnmanagedV", "takeUnretainedValue"]
+- !private ["s9UnmanagedV", "toOpaque"]
+- !private ["Sp", "advanced"]
+- !private ["Sp", "pointee"]
+- !private ["Sv", "assumingMemoryBound"]
+- !private ["Sv", "init"]
+- !private ["SV", "assumingMemoryBound"]
+- !private ["SV", "init"]
+- !private ["10PerfectXML13XErrorTrackerC", "init"]
+- !private ["10PerfectXML5XNodeC", "Int"]
+- !private ["10PerfectXML5XNodeC", "Int8"]
+- ["10PerfectXML5XNodeC", "String"]
+- !private ["10PerfectXML5XNodeC", "Unmanaged"]
+- !private ["10PerfectXML5XNodeC", "UnsafeMutableRawPointer"]
+- !private ["10PerfectXML5XNodeC", "UnsafeRawPointer"]
+- !private ["10PerfectXML5XNodeC", "XErrorTracker"]
+- !private ["10PerfectXML5XNodeC", "XML_ELEMENT_NODE"]
+- !private ["10PerfectXML5XNodeC", "XML_NAMESPACE_DECL"]
+- ["10PerfectXML5XNodeC", "XNode"]
+- !private ["10PerfectXML5XNodeC", "XPATH_BOOLEAN"]
+- !private ["10PerfectXML5XNodeC", "XPATH_NODESET"]
+- !private ["10PerfectXML5XNodeC", "XPATH_NUMBER"]
+- ["10PerfectXML5XNodeC", "XPathObject"]
+- !private ["10PerfectXML5XNodeC", "asConcreteNode"]
+- ["10PerfectXML5XNodeC", "extract"]
+- ["10PerfectXML5XNodeC", "extractOne"]
+- !private ["10PerfectXML5XNodeC", "fromNodePtr"]
+- !private ["10PerfectXML5XNodeC", "initializeContext"]
+- !private ["10PerfectXML5XNodeC", "nodePtr"]
+- !private ["10PerfectXML5XNodeC", "nodeType"]
+- !private ["10PerfectXML5XNodeC", "print"]
+- !private ["10PerfectXML5XNodeC", "translateXPath"]
+- !private ["10PerfectXML5XNodeC", "xPathTargetNode"]
+- !private ["10PerfectXML5XNodeC", "xmlDocGetRootElement"]
+- !private ["10PerfectXML5XNodeC", "xmlFree"]
+- !private ["10PerfectXML5XNodeC", "xmlNode"]
+- ["10PerfectXML5XNodeC", "xmlNodePtr"]
+- !private ["10PerfectXML5XNodeC", "xmlNs"]
+- !private ["10PerfectXML5XNodeC", "xmlNsPtr"]
+- !private ["10PerfectXML5XNodeC", "xmlSearchNs"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathCastToBoolean"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathCastToNumber"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathCastToString"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathContextPtr"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathEval"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathFreeContext"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathFreeObject"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathNewContext"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathObjectPtr"]
+- !private ["10PerfectXML5XNodeC", "xmlXPathRegisterNs"]
+- !private ["10PerfectXML9XNodeTypeO", "documentNode"]
+- ["10PerfectXML11XPathObjectO", "Bool"]
+- ["10PerfectXML11XPathObjectO", "Double"]
+- ["10PerfectXML11XPathObjectO", "String"]
+- ["10PerfectXML11XPathObjectO", "XNode"]
+- ["10PerfectXML11XPathObjectO", "boolean"]
+- ["10PerfectXML11XPathObjectO", "invalidExpression"]
+- ["10PerfectXML11XPathObjectO", "nodeSet"]
+- ["10PerfectXML11XPathObjectO", "none"]
+- ["10PerfectXML11XPathObjectO", "number"]
+- ["10PerfectXML11XPathObjectO", "string"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "first"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "first"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "first"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "first"]
+- !private ["s17_MutableIndexableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "assumingMemoryBound"]
+- !private ["s8_PointerP", "advanced"]
+- !private ["s8_PointerP", "assumingMemoryBound"]
+- !private ["s8_PointerP", "init"]
+- !private ["s8_PointerP", "pointee"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "first"]
+- !private ["s22_RandomAccessIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "first"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "advanced"]
+- !private ["s11_StrideableP", "assumingMemoryBound"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s11_StrideableP", "pointee"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["SC8_xmlNodeV", "doc"]
+- !private ["SC8_xmlNodeV", "type"]
+- !private ["SC11_xmlNodeSetV", "nodeNr"]
+- !private ["SC11_xmlNodeSetV", "nodeTab"]
+- !private ["SC6_xmlNsV", "next"]
+- !private ["SC6_xmlNsV", "prefix"]
+- !private ["SC6_xmlNsV", "type"]
+- !private ["SC16_xmlXPathContextV", "error"]
+- !private ["SC16_xmlXPathContextV", "node"]
+- !private ["SC16_xmlXPathContextV", "userData"]
+- !private ["SC15_xmlXPathObjectV", "nodesetval"]
+- !private ["SC15_xmlXPathObjectV", "type"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s8HashableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- !private "s7NumericP"
+- !private "Sq"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s9UnmanagedV"
+- !private "Sp"
+- !private "Sv"
+- !private "SV"
+- !private "10PerfectXML13XErrorTrackerC"
+- "10PerfectXML5XNodeC"
+- !private "10PerfectXML9XNodeTypeO"
+- "10PerfectXML11XPathObjectO"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+- !private "SC8_xmlNodeV"
+- !private "SC11_xmlNodeSetV"
+- !private "SC6_xmlNsV"
+- !private "SC16_xmlXPathContextV"
+- !private "SC15_xmlXPathObjectV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-libxml2.git--1407945982793290600/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+interface-hash: "3ff30985b40f558f5d0d3aca359e5cee"

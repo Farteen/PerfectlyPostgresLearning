@@ -1,0 +1,452 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RequestLogFile"
+- "RequestLogger"
+provides-nominal:
+- "20PerfectRequestLogger0B7LogFileV"
+- "20PerfectRequestLogger0bC0C"
+provides-member:
+- ["20PerfectRequestLogger0B7LogFileV", ""]
+- ["20PerfectRequestLogger0bC0C", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "/"
+- !private "??"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Double"
+- "HTTPRequest"
+- "HTTPRequestFilter"
+- "HTTPRequestFilterResult"
+- "HTTPResponse"
+- "HTTPResponseFilter"
+- "HTTPResponseFilterResult"
+- !private "Int"
+- !private "LogFile"
+- !private "PerfectNet"
+- !private "Randoms"
+- "RequestLogFile"
+- "RequestLogger"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "UInt32"
+- !private "UnicodeScalarType"
+- !private "gettimeofday"
+- !private "moment"
+- !private "timeval"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "isEmpty"]
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "count"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "count"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "isEmpty"]
+- !private ["s10CollectionP", "subscript"]
+- ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "code"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "count"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "isEmpty"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["Sd", "init"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "count"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "isEmpty"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "continue"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "isEmpty"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isEmpty"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["11PerfectHTTP11HTTPRequestP", "connection"]
+- !private ["11PerfectHTTP11HTTPRequestP", "method"]
+- !private ["11PerfectHTTP11HTTPRequestP", "protocolVersion"]
+- !private ["11PerfectHTTP11HTTPRequestP", "remoteAddress"]
+- !private ["11PerfectHTTP11HTTPRequestP", "scratchPad"]
+- !private ["11PerfectHTTP11HTTPRequestP", "serverName"]
+- !private ["11PerfectHTTP11HTTPRequestP", "uri"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "Double"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "Int"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "LogFile"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "Randoms"]
+- ["11PerfectHTTP17HTTPRequestFilterP", "RequestLogFile"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "RequestLogger"]
+- ["11PerfectHTTP17HTTPRequestFilterP", "filter"]
+- ["11PerfectHTTP17HTTPRequestFilterP", "filterBody"]
+- ["11PerfectHTTP17HTTPRequestFilterP", "filterHeaders"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "getNow"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "gettimeofday"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "init"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "moment"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "randomID"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "sequence"]
+- !private ["11PerfectHTTP17HTTPRequestFilterP", "timeval"]
+- ["11PerfectHTTP17HTTPRequestFilterP", ""]
+- !private ["11PerfectHTTP23HTTPRequestFilterResultO", "continue"]
+- !private ["11PerfectHTTP12HTTPResponseP", "bodyBytes"]
+- !private ["11PerfectHTTP12HTTPResponseP", "request"]
+- !private ["11PerfectHTTP12HTTPResponseP", "status"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "Double"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "Int"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "LogFile"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "Randoms"]
+- ["11PerfectHTTP18HTTPResponseFilterP", "RequestLogFile"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "RequestLogger"]
+- ["11PerfectHTTP18HTTPResponseFilterP", "filter"]
+- ["11PerfectHTTP18HTTPResponseFilterP", "filterBody"]
+- ["11PerfectHTTP18HTTPResponseFilterP", "filterHeaders"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "getNow"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "gettimeofday"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "init"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "moment"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "randomID"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "sequence"]
+- !private ["11PerfectHTTP18HTTPResponseFilterP", "timeval"]
+- ["11PerfectHTTP18HTTPResponseFilterP", ""]
+- !private ["11PerfectHTTP24HTTPResponseFilterResultO", "continue"]
+- !private ["11PerfectHTTP18HTTPResponseStatusO", "code"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "continue"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "isEmpty"]
+- !private ["Si", "init"]
+- !private ["10PerfectLib15JSONConvertibleP", "_getBuiltinLogicValue"]
+- !private ["10PerfectLib15JSONConvertibleP", "count"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- !private ["10PerfectLib15JSONConvertibleP", "isEmpty"]
+- !private ["10PerfectLib15JSONConvertibleP", "subscript"]
+- !private ["13PerfectLogger7LogFileV", "info"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "isEmpty"]
+- ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "isEmpty"]
+- !private ["s17MutableCollectionP", "count"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isEmpty"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "isEmpty"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "isEmpty"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "isEmpty"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "isEmpty"]
+- !private ["So8NSObjectC", "isEmpty"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isEmpty"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "isEmpty"]
+- ["So8NSStringC", "init"]
+- !private ["So8NSStringC", "isEmpty"]
+- !private ["s7NumericP", "init"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["11SwiftRandom7RandomsV", "randomAlphaNumericString"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "isEmpty"]
+- !private ["20PerfectRequestLogger0B7LogFileV", "init"]
+- ["20PerfectRequestLogger0B7LogFileV", "location"]
+- ["20PerfectRequestLogger0bC0C", "Double"]
+- ["20PerfectRequestLogger0bC0C", "HTTPRequest"]
+- ["20PerfectRequestLogger0bC0C", "HTTPRequestFilter"]
+- ["20PerfectRequestLogger0bC0C", "HTTPRequestFilterResult"]
+- ["20PerfectRequestLogger0bC0C", "HTTPResponse"]
+- ["20PerfectRequestLogger0bC0C", "HTTPResponseFilter"]
+- ["20PerfectRequestLogger0bC0C", "HTTPResponseFilterResult"]
+- !private ["20PerfectRequestLogger0bC0C", "Int"]
+- !private ["20PerfectRequestLogger0bC0C", "LogFile"]
+- !private ["20PerfectRequestLogger0bC0C", "PerfectNet"]
+- !private ["20PerfectRequestLogger0bC0C", "Randoms"]
+- ["20PerfectRequestLogger0bC0C", "RequestLogFile"]
+- !private ["20PerfectRequestLogger0bC0C", "RequestLogger"]
+- ["20PerfectRequestLogger0bC0C", "String"]
+- ["20PerfectRequestLogger0bC0C", "UInt32"]
+- ["20PerfectRequestLogger0bC0C", "defaultLogFile"]
+- ["20PerfectRequestLogger0bC0C", "deinit"]
+- ["20PerfectRequestLogger0bC0C", "filter"]
+- ["20PerfectRequestLogger0bC0C", "filterAPIRequest"]
+- ["20PerfectRequestLogger0bC0C", "filterAPIResponse"]
+- ["20PerfectRequestLogger0bC0C", "filterBody"]
+- ["20PerfectRequestLogger0bC0C", "filterHeaders"]
+- ["20PerfectRequestLogger0bC0C", "getNow"]
+- !private ["20PerfectRequestLogger0bC0C", "gettimeofday"]
+- ["20PerfectRequestLogger0bC0C", "init"]
+- !private ["20PerfectRequestLogger0bC0C", "moment"]
+- ["20PerfectRequestLogger0bC0C", "randomID"]
+- ["20PerfectRequestLogger0bC0C", "sequence"]
+- !private ["20PerfectRequestLogger0bC0C", "timeval"]
+- !private ["s8SequenceP", "count"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "isEmpty"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "init"]
+- ["SS", "init"]
+- !private ["SS", "isEmpty"]
+- ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "isEmpty"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "isEmpty"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "isEmpty"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isEmpty"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isEmpty"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "isEmpty"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isEmpty"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "isEmpty"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s10_IndexableP", "count"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "isEmpty"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "count"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "isEmpty"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "isEmpty"]
+- !private ["s11_StrideableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "isEmpty"]
+- !private ["SC7timevalV", "init"]
+- !private ["SC7timevalV", "tv_sec"]
+- !private ["SC7timevalV", "tv_usec"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "s19BinaryFloatingPointP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "Sd"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s13FloatingPointP"
+- !private "11PerfectHTTP11HTTPRequestP"
+- "11PerfectHTTP17HTTPRequestFilterP"
+- !private "11PerfectHTTP23HTTPRequestFilterResultO"
+- !private "11PerfectHTTP12HTTPResponseP"
+- "11PerfectHTTP18HTTPResponseFilterP"
+- !private "11PerfectHTTP24HTTPResponseFilterResultO"
+- !private "11PerfectHTTP18HTTPResponseStatusO"
+- "s8HashableP"
+- !private "Si"
+- "10PerfectLib15JSONConvertibleP"
+- !private "13PerfectLogger7LogFileV"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s7NumericP"
+- !private "s22RandomAccessCollectionP"
+- !private "11SwiftRandom7RandomsV"
+- "s26RangeReplaceableCollectionP"
+- "20PerfectRequestLogger0B7LogFileV"
+- "20PerfectRequestLogger0bC0C"
+- "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- "s16_SwiftStringViewP"
+- !private "SC7timevalV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCURL.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectHTTP.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectThread.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/SwiftRandom.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCrypto.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectLogger.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/SwiftMoment.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../cms.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-libcurl.git--6269865819486613555/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CZlib-src.git--8503750424862953877/PerfectCZlib/include/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "a8b5ac4444125862ccc6ce5161575c61"

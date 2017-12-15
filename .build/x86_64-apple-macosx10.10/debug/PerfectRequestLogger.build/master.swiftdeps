@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "e43d1cd0d7cbb3fb90e33624b19a48ec"
+build_time: [1512460528, 69510000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-RequestLogger.git-3102495399181047151/Sources/PerfectRequestLogger.swift": [1512115709, 0]

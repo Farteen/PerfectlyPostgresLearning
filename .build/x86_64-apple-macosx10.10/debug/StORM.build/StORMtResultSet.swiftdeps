@@ -1,0 +1,102 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "StORMResultSet"
+provides-nominal:
+- "5StORM0A12ORMResultSetC"
+provides-member:
+- ["5StORM0A12ORMResultSetC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "StORMCursor"
+- "StORMResultSet"
+- "StORMRow"
+- "String"
+depends-member:
+- ["Sa", "init"]
+- ["s23BidirectionalCollectionP", "init"]
+- ["s7CVarArgP", "init"]
+- ["s10CollectionP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s9DecodableP", "init"]
+- ["s10DictionaryV", "init"]
+- ["s9EncodableP", "init"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- ["s17MutableCollectionP", "init"]
+- ["s22RandomAccessCollectionP", "init"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- ["s8SequenceP", "init"]
+- ["5StORM0A9ORMCursorV", "init"]
+- ["5StORM0A12ORMResultSetC", "StORMCursor"]
+- ["5StORM0A12ORMResultSetC", "StORMRow"]
+- ["5StORM0A12ORMResultSetC", "String"]
+- ["5StORM0A12ORMResultSetC", "cursorData"]
+- ["5StORM0A12ORMResultSetC", "deinit"]
+- ["5StORM0A12ORMResultSetC", "fieldInfo"]
+- ["5StORM0A12ORMResultSetC", "fieldNames"]
+- ["5StORM0A12ORMResultSetC", "foundSetCount"]
+- ["5StORM0A12ORMResultSetC", "init"]
+- ["5StORM0A12ORMResultSetC", "insertedID"]
+- ["5StORM0A12ORMResultSetC", "rows"]
+- ["s14_ArrayProtocolP", "init"]
+- ["s23_BidirectionalIndexableP", "init"]
+- ["s24_DestructorSafeContainerP", "init"]
+- ["s10_IndexableP", "init"]
+- ["s14_IndexableBaseP", "init"]
+- ["s17_MutableIndexableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s22_RandomAccessIndexableP", "init"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+depends-nominal:
+- "Sa"
+- "s23BidirectionalCollectionP"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s10DictionaryV"
+- "s9EncodableP"
+- "s25ExpressibleByArrayLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "10PerfectLib15JSONConvertibleP"
+- "s17MutableCollectionP"
+- "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "5StORM0A9ORMCursorV"
+- "5StORM0A12ORMResultSetC"
+- "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- "s24_DestructorSafeContainerP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "51701ae2e597c032aa6d97ca5e48b3dc"

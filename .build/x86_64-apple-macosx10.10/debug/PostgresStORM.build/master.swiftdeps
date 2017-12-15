@@ -1,0 +1,16 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "48c2bac82f99d9d39019254a8f41077f"
+build_time: [1512460528, 69443000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/Convenience.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/DataConverters.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/Delete.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/Insert.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/PostgresConnect.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/PostgresMap.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/PostgresStORM.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/SQL.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/Select.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/Update.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/Upsert.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Postgres-StORM.git--2456018558473457460/Sources/parseRows.swift": [1512115708, 0]

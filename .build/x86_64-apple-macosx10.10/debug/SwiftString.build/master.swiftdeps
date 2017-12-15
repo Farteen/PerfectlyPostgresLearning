@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "c31d5dea00745e745d010f6ee9235aa2"
+build_time: [1512460526, 192920000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/SwiftString.git-1364241159374428423/Sources/StringExtensions.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/SwiftString.git-1364241159374428423/Sources/StringHTML.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/SwiftString.git-1364241159374428423/Sources/StringURL.swift": [1512115707, 0]

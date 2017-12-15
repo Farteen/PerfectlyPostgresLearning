@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "b039f2742060daeb9cd871bbd71c05ee"
+build_time: [1512460527, 624169000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1512115706, 0]

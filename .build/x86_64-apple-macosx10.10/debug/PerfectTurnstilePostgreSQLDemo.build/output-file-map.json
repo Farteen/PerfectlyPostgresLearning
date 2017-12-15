@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/master.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/Sources/PLWeChatLoginHandler.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/PLWeChatLoginHandler.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/PLWeChatLoginHandler.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/PLWeChatLoginHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/PLWeChatLoginHandler.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/Sources/main.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/main.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/main.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectTurnstilePostgreSQLDemo.build/main.swiftdeps"
+  }
+}

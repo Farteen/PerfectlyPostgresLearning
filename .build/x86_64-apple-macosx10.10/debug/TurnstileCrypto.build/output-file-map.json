@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/master.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile.git-2443676010155639616/Sources/TurnstileCrypto/BCrypt.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/BCrypt.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/BCrypt.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/BCrypt~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/BCrypt.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile.git-2443676010155639616/Sources/TurnstileCrypto/Random.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/Random.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/Random.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/Random.swiftdeps"
+  },
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile.git-2443676010155639616/Sources/TurnstileCrypto/URandom.swift": {
+    "dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/URandom.d",
+    "object": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/URandom.swift.o",
+    "swiftmodule": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.build/URandom.swiftdeps"
+  }
+}

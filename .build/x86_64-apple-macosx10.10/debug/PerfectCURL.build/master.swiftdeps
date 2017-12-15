@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "d50a5d99511430100ad6ea31b8caa417"
+build_time: [1512460527, 624173000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLRequest.swift": [1512115703, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLRequestOptions.swift": [1512115703, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLResponse.swift": [1512115703, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/CURLResponseInfos.swift": [1512115703, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-CURL.git-8858624468322681619/Sources/cURL.swift": [1512115703, 0]

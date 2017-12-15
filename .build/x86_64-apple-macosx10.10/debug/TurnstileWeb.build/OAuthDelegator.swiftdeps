@@ -1,0 +1,82 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "OAuthDelegator"
+provides-nominal:
+- "12TurnstileWeb14OAuthDelegatorC"
+provides-member:
+- ["12TurnstileWeb14OAuthDelegatorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "HTTPClient"
+- "HTTPClientGenerator"
+- "OAuthDelegator"
+- "String"
+- "URLSession"
+- "URLSessionConfiguration"
+depends-member:
+- ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "init"]
+- ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s9EquatableP", "default"]
+- ["s9EquatableP", "init"]
+- ["12TurnstileWeb10HTTPClientP", "init"]
+- ["s8HashableP", "default"]
+- ["s8HashableP", "init"]
+- ["So9NSCopyingP", "default"]
+- ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "init"]
+- ["So16NSObjectProtocolP", "default"]
+- ["So16NSObjectProtocolP", "init"]
+- ["12TurnstileWeb14OAuthDelegatorC", "HTTPClient"]
+- ["12TurnstileWeb14OAuthDelegatorC", "HTTPClientGenerator"]
+- ["12TurnstileWeb14OAuthDelegatorC", "String"]
+- ["12TurnstileWeb14OAuthDelegatorC", "URLSession"]
+- ["12TurnstileWeb14OAuthDelegatorC", "URLSessionConfiguration"]
+- ["12TurnstileWeb14OAuthDelegatorC", "_urlSession"]
+- ["12TurnstileWeb14OAuthDelegatorC", "consumerKey"]
+- ["12TurnstileWeb14OAuthDelegatorC", "deinit"]
+- ["12TurnstileWeb14OAuthDelegatorC", "init"]
+- ["12TurnstileWeb14OAuthDelegatorC", "urlSession"]
+- ["So10URLSessionC", "deinit"]
+- ["So10URLSessionC", "init"]
+- ["So23URLSessionConfigurationC", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "12TurnstileWeb10HTTPClientP"
+- "s8HashableP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "12TurnstileWeb14OAuthDelegatorC"
+- "So10URLSessionC"
+- "So23URLSessionConfigurationC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/Turnstile.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "6ce093b6f7f1bce1d9db398261a49b02"

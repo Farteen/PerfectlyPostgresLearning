@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "cc42eda3d3562cfe57e0792723cb5777"
+build_time: [1512460526, 193183000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/SwiftRandom.git--6412955993590123727/Sources/SwiftRandom/Random.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/SwiftRandom.git--6412955993590123727/Sources/SwiftRandom/Randoms.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/SwiftRandom.git--6412955993590123727/Sources/SwiftRandom/URandom.swift": [1512115704, 0]

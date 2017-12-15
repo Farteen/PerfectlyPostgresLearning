@@ -1,0 +1,425 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MomentBundle"
+provides-nominal:
+- "11SwiftMoment0B6BundleC"
+provides-member:
+- ["11SwiftMoment0B6BundleC", ""]
+- ["11SwiftMoment0B0V", ""]
+- ["11SwiftMoment0B0V", "fromNow"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "%"
+- !private "&&"
+- !private "*"
+- !private "/"
+- !private "<"
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- !private "Bundle"
+- !private "Date"
+- !private "Double"
+- !private "Float"
+- !private "Int"
+- !private "Locale"
+- "Moment"
+- "MomentBundle"
+- "NSObject"
+- "String"
+- !private "StringLiteralType"
+- !private "URL"
+- !private "UnicodeScalarType"
+- !private "floor"
+- !private "moment"
+- !private "||"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["s23BidirectionalCollectionP", "first"]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So6BundleC", "bundleIdentifier"]
+- !private ["So6BundleC", "init"]
+- !private ["So6BundleC", "localizedString"]
+- !private ["So6BundleC", "path"]
+- !private ["So6BundleC", "resourcePath"]
+- !private ["s7CVarArgP", "bundleIdentifier"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "localizedString"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "resourcePath"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "first"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "Bundle"]
+- !private ["s10ComparableP", "Date"]
+- !private ["s10ComparableP", "Float"]
+- !private ["s10ComparableP", "Int"]
+- !private ["s10ComparableP", "Locale"]
+- !private ["s10ComparableP", "MomentBundle"]
+- !private ["s10ComparableP", "NSDateTimeAgoLocalizedStrings"]
+- !private ["s10ComparableP", "String"]
+- !private ["s10ComparableP", "URL"]
+- !private ["s10ComparableP", "dayInSeconds"]
+- !private ["s10ComparableP", "floor"]
+- !private ["s10ComparableP", "hourInSeconds"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "intervalSince"]
+- !private ["s10ComparableP", "locale"]
+- !private ["s10ComparableP", "minuteInSeconds"]
+- !private ["s10ComparableP", "moment"]
+- !private ["s10ComparableP", "monthInSeconds"]
+- !private ["s10ComparableP", "stringFromFormat"]
+- !private ["s10ComparableP", "weekInSeconds"]
+- !private ["s10ComparableP", "yearInSeconds"]
+- !private ["s28CustomDebugStringConvertibleP", "Bundle"]
+- !private ["s28CustomDebugStringConvertibleP", "Date"]
+- !private ["s28CustomDebugStringConvertibleP", "Float"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "Locale"]
+- !private ["s28CustomDebugStringConvertibleP", "MomentBundle"]
+- !private ["s28CustomDebugStringConvertibleP", "NSDateTimeAgoLocalizedStrings"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "URL"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- !private ["s28CustomDebugStringConvertibleP", "bundleIdentifier"]
+- !private ["s28CustomDebugStringConvertibleP", "dayInSeconds"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "floor"]
+- !private ["s28CustomDebugStringConvertibleP", "hourInSeconds"]
+- !private ["s28CustomDebugStringConvertibleP", "identifier"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "intervalSince"]
+- !private ["s28CustomDebugStringConvertibleP", "locale"]
+- !private ["s28CustomDebugStringConvertibleP", "localizedString"]
+- !private ["s28CustomDebugStringConvertibleP", "minuteInSeconds"]
+- !private ["s28CustomDebugStringConvertibleP", "moment"]
+- !private ["s28CustomDebugStringConvertibleP", "monthInSeconds"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "preferredLanguages"]
+- !private ["s28CustomDebugStringConvertibleP", "resourcePath"]
+- !private ["s28CustomDebugStringConvertibleP", "stringFromFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "weekInSeconds"]
+- !private ["s28CustomDebugStringConvertibleP", "yearInSeconds"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "identifier"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "preferredLanguages"]
+- !private ["s23CustomStringConvertibleP", "Bundle"]
+- !private ["s23CustomStringConvertibleP", "Date"]
+- !private ["s23CustomStringConvertibleP", "Float"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "Locale"]
+- !private ["s23CustomStringConvertibleP", "MomentBundle"]
+- !private ["s23CustomStringConvertibleP", "NSDateTimeAgoLocalizedStrings"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "URL"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- !private ["s23CustomStringConvertibleP", "bundleIdentifier"]
+- !private ["s23CustomStringConvertibleP", "dayInSeconds"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "floor"]
+- !private ["s23CustomStringConvertibleP", "hourInSeconds"]
+- !private ["s23CustomStringConvertibleP", "identifier"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "intervalSince"]
+- !private ["s23CustomStringConvertibleP", "locale"]
+- !private ["s23CustomStringConvertibleP", "localizedString"]
+- !private ["s23CustomStringConvertibleP", "minuteInSeconds"]
+- !private ["s23CustomStringConvertibleP", "moment"]
+- !private ["s23CustomStringConvertibleP", "monthInSeconds"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "preferredLanguages"]
+- !private ["s23CustomStringConvertibleP", "resourcePath"]
+- !private ["s23CustomStringConvertibleP", "seconds"]
+- !private ["s23CustomStringConvertibleP", "stringFromFormat"]
+- !private ["s23CustomStringConvertibleP", "weekInSeconds"]
+- !private ["s23CustomStringConvertibleP", "yearInSeconds"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["10Foundation4DateV", "init"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "appendingPathComponent"]
+- !private ["s9DecodableP", "first"]
+- !private ["s9DecodableP", "identifier"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "preferredLanguages"]
+- !private ["11SwiftMoment8DurationV", "seconds"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "appendingPathComponent"]
+- !private ["s9EncodableP", "first"]
+- !private ["s9EncodableP", "identifier"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "preferredLanguages"]
+- !private ["s9EquatableP", "Bundle"]
+- !private ["s9EquatableP", "Date"]
+- !private ["s9EquatableP", "Float"]
+- !private ["s9EquatableP", "Int"]
+- !private ["s9EquatableP", "Locale"]
+- !private ["s9EquatableP", "MomentBundle"]
+- !private ["s9EquatableP", "NSDateTimeAgoLocalizedStrings"]
+- !private ["s9EquatableP", "String"]
+- !private ["s9EquatableP", "URL"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "appendingPathComponent"]
+- !private ["s9EquatableP", "bundleIdentifier"]
+- !private ["s9EquatableP", "dayInSeconds"]
+- !private ["s9EquatableP", "floor"]
+- !private ["s9EquatableP", "hourInSeconds"]
+- !private ["s9EquatableP", "identifier"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "intervalSince"]
+- !private ["s9EquatableP", "locale"]
+- !private ["s9EquatableP", "localizedString"]
+- !private ["s9EquatableP", "minuteInSeconds"]
+- !private ["s9EquatableP", "moment"]
+- !private ["s9EquatableP", "monthInSeconds"]
+- !private ["s9EquatableP", "path"]
+- !private ["s9EquatableP", "preferredLanguages"]
+- !private ["s9EquatableP", "resourcePath"]
+- !private ["s9EquatableP", "seconds"]
+- !private ["s9EquatableP", "stringFromFormat"]
+- !private ["s9EquatableP", "weekInSeconds"]
+- !private ["s9EquatableP", "yearInSeconds"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["Sf", "init"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "appendingPathComponent"]
+- !private ["s8HashableP", "bundleIdentifier"]
+- !private ["s8HashableP", "identifier"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "localizedString"]
+- !private ["s8HashableP", "path"]
+- !private ["s8HashableP", "preferredLanguages"]
+- !private ["s8HashableP", "resourcePath"]
+- ["s8HashableP", ""]
+- !private ["Si", "init"]
+- !private ["10Foundation6LocaleV", "identifier"]
+- !private ["10Foundation6LocaleV", "preferredLanguages"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["11SwiftMoment0B0V", "Bundle"]
+- !private ["11SwiftMoment0B0V", "Date"]
+- !private ["11SwiftMoment0B0V", "Double"]
+- !private ["11SwiftMoment0B0V", "Float"]
+- !private ["11SwiftMoment0B0V", "Int"]
+- !private ["11SwiftMoment0B0V", "Locale"]
+- !private ["11SwiftMoment0B0V", "MomentBundle"]
+- !private ["11SwiftMoment0B0V", "NSDateTimeAgoLocalizedStrings"]
+- ["11SwiftMoment0B0V", "String"]
+- !private ["11SwiftMoment0B0V", "URL"]
+- !private ["11SwiftMoment0B0V", "dayInSeconds"]
+- !private ["11SwiftMoment0B0V", "floor"]
+- ["11SwiftMoment0B0V", "fromNow"]
+- !private ["11SwiftMoment0B0V", "getLocaleFormatUnderscoresWithValue"]
+- !private ["11SwiftMoment0B0V", "hourInSeconds"]
+- !private ["11SwiftMoment0B0V", "intervalSince"]
+- !private ["11SwiftMoment0B0V", "locale"]
+- !private ["11SwiftMoment0B0V", "minuteInSeconds"]
+- !private ["11SwiftMoment0B0V", "moment"]
+- !private ["11SwiftMoment0B0V", "monthInSeconds"]
+- !private ["11SwiftMoment0B0V", "stringFromFormat"]
+- !private ["11SwiftMoment0B0V", "weekInSeconds"]
+- !private ["11SwiftMoment0B0V", "yearInSeconds"]
+- ["11SwiftMoment0B6BundleC", "deinit"]
+- ["11SwiftMoment0B6BundleC", "init"]
+- !private ["s17MutableCollectionP", "first"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "bundleIdentifier"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "localizedString"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "resourcePath"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "bundleIdentifier"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "localizedString"]
+- !private ["So16NSObjectProtocolP", "path"]
+- !private ["So16NSObjectProtocolP", "resourcePath"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s7NumericP", "init"]
+- !private ["s22RandomAccessCollectionP", "first"]
+- !private ["s26RangeReplaceableCollectionP", "first"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- !private ["10Foundation20ReferenceConvertibleP", "identifier"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "preferredLanguages"]
+- !private ["s8SequenceP", "first"]
+- !private ["s8SequenceP", "init"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation3URLV", "appendingPathComponent"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s23_BidirectionalIndexableP", "first"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "first"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "first"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bundleIdentifier"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "localizedString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "resourcePath"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "identifier"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "preferredLanguages"]
+- !private ["s22_RandomAccessIndexableP", "first"]
+- !private ["s26_RangeReplaceableIndexableP", "first"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s23BidirectionalCollectionP"
+- !private "s19BinaryFloatingPointP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "So6BundleC"
+- "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- !private "s9DecodableP"
+- !private "11SwiftMoment8DurationV"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "Sf"
+- !private "s13FloatingPointP"
+- "s8HashableP"
+- !private "Si"
+- !private "10Foundation6LocaleV"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "11SwiftMoment0B0V"
+- "11SwiftMoment0B6BundleC"
+- !private "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s7NumericP"
+- !private "s22RandomAccessCollectionP"
+- !private "s26RangeReplaceableCollectionP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "s14_ArrayProtocolP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "d373c3c13bc16fa53f88fcd026c67473"

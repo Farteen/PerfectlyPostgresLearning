@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "18820da261772c7c05f20b9fb88f884a"
+build_time: [1512460526, 714932000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Algorithms.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/ByteIO.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Extensions.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/JWT.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/Keys.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/OpenSSLInternal.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto/PerfectCrypto.swift": [1512115704, 0]

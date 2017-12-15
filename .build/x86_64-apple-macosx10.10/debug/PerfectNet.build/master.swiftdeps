@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "520020fb01ec0a1eddd96514026cda4b"
+build_time: [1512460527, 178802000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/Net.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetAddress.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetEvent.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetNamedPipe.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCP.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetTCPSSL.swift": [1512115706, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Net.git-3268755499654502659/Sources/NetUDP.swift": [1512115706, 0]

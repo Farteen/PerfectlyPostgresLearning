@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "2e8e99f13e3b8310f7b0c19730564467"
+build_time: [1512460526, 714939000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORM.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMConnect.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMCursor.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMDataSource.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMDataSourceCredentials.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMDataSourceOptions.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMError.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMJoins.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMProtocol.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMRow.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/StORM.git-6077292811663054913/Sources/StORM/StORMtResultSet.swift": [1512115707, 0]

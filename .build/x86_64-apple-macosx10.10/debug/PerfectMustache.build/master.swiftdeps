@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "cd10354bccdbb50f5acf82442c68e4ca"
+build_time: [1512460527, 624124000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Mustache.git-4271886153857801499/Sources/HTTPResponseExtension.swift": [1512115705, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Mustache.git-4271886153857801499/Sources/Mustache.swift": [1512115705, 0]

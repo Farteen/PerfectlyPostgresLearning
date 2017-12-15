@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "7b1893f359e4a00c2b57ac6444370699"
+build_time: [1512460526, 193220000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Promise.swift": [1512115705, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/ThreadQueue.swift": [1512115705, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Thread.git-6541237758607105655/Sources/Threading.swift": [1512115705, 0]

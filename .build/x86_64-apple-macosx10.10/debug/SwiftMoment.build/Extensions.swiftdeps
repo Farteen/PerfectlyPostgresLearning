@@ -1,0 +1,96 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["Si", ""]
+- ["Si", "seconds"]
+- ["Si", "minutes"]
+- ["Si", "hours"]
+- ["Si", "days"]
+- ["Si", "months"]
+- ["Si", "quarters"]
+- ["Si", "years"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- "Duration"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+depends-member:
+- !private ["s13BinaryIntegerP", "Duration"]
+- !private ["s7CVarArgP", "Duration"]
+- !private ["s10ComparableP", "Duration"]
+- !private ["s29CustomPlaygroundQuickLookableP", "Duration"]
+- !private ["s17CustomReflectableP", "Duration"]
+- !private ["s23CustomStringConvertibleP", "Duration"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "Duration"]
+- !private ["11SwiftMoment8DurationV", "init"]
+- !private ["s9EncodableP", "Duration"]
+- !private ["s9EquatableP", "Duration"]
+- !private ["s9EquatableP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "Duration"]
+- !private ["s17FixedWidthIntegerP", "Duration"]
+- !private ["s8HashableP", "Duration"]
+- ["Si", "Duration"]
+- ["Si", "days"]
+- ["Si", "hours"]
+- ["Si", "minutes"]
+- ["Si", "months"]
+- ["Si", "quarters"]
+- ["Si", "seconds"]
+- ["Si", "years"]
+- !private ["s25LosslessStringConvertibleP", "Duration"]
+- !private ["s10MirrorPathP", "Duration"]
+- !private ["s7NumericP", "Duration"]
+- !private ["s13SignedIntegerP", "Duration"]
+- !private ["s13SignedNumericP", "Duration"]
+- !private ["s10StrideableP", "Duration"]
+- !private ["s18_BitwiseOperationsP", "Duration"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "Duration"]
+- !private ["s21_ObjectiveCBridgeableP", "Duration"]
+- !private ["s11_StrideableP", "Duration"]
+depends-nominal:
+- !private "s13BinaryIntegerP"
+- !private "s7CVarArgP"
+- !private "s10ComparableP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "11SwiftMoment8DurationV"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "s8HashableP"
+- "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "s7NumericP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s11_StrideableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "5e849ec9947801db66604f7dbf34ad23"

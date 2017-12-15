@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "2b10715e942bb04d6b5b4bb3b8d8c49e"
+build_time: [1512460527, 913957000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile-Perfect.git-2479001266429089274/Sources/AuthFilter.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile-Perfect.git-2479001266429089274/Sources/AuthenticationConfig.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile-Perfect.git-2479001266429089274/Sources/HTTPRequest+Turnstile.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile-Perfect.git-2479001266429089274/Sources/MustacheHandler.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile-Perfect.git-2479001266429089274/Sources/TurnstileFilter.swift": [1512115707, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Turnstile-Perfect.git-2479001266429089274/Sources/TurnstilePerfect.swift": [1512115707, 0]

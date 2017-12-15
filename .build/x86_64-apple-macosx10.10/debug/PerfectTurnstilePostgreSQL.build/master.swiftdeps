@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "0656b4cc8d4cf680b41f06787d28d7af"
+build_time: [1512460528, 285889000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/Account.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/AuthHandlersJSON.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/AuthHandlersWeb.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/JSONRoutes.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/Realm.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/SessionManager.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/Tokens.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/TurnstilePerfectRealm.swift": [1512115704, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-Turnstile-PostgreSQL.git--6244115031640818268/Sources/WebRoutes.swift": [1512115704, 0]

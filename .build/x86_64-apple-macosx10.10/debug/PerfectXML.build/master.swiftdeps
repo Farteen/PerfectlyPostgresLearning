@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "df740a9fbb6fc813e46efe33aac36115"
+build_time: [1512460526, 193247000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-XML.git--3069111962689080115/Sources/PerfectXML.swift": [1512115708, 0]
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-XML.git--3069111962689080115/Sources/PerfectXPath.swift": [1512115708, 0]

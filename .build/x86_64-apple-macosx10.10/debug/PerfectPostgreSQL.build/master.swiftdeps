@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.72 clang-900.0.38)"
+options: "253376408dc9b12dec703cc5e19d896f"
+build_time: [1512460526, 193213000]
+inputs:
+  "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-PostgreSQL.git--5405562302171386633/Sources/PerfectPostgreSQL.swift": [1512115710, 0]

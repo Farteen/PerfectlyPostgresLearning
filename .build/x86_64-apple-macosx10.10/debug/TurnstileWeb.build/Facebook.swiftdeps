@@ -1,0 +1,367 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Facebook"
+- "FacebookAccount"
+- "FacebookError"
+provides-nominal:
+- "12TurnstileWeb8FacebookC"
+- "12TurnstileWeb15FacebookAccountV"
+- "12TurnstileWeb13FacebookErrorV"
+provides-member:
+- ["12TurnstileWeb8FacebookC", ""]
+- ["12TurnstileWeb15FacebookAccountV", ""]
+- ["12TurnstileWeb13FacebookErrorV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "+"
+- !private "=="
+- !private "??"
+- !private "APIConnectionError"
+- "AccessToken"
+- "Account"
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "Credentials"
+- !private "Dictionary"
+- "Facebook"
+- "FacebookAccount"
+- "FacebookError"
+- !private "IncorrectCredentialsError"
+- !private "InvalidAPIResponse"
+- !private "JSONSerialization"
+- "OAuth2"
+- "Realm"
+- "String"
+- !private "StringLiteralType"
+- "TurnstileError"
+- !private "URL"
+- !private "URLComponents"
+- !private "URLRequest"
+- !private "UnsupportedCredentialsError"
+depends-member:
+- !private ["12TurnstileWeb18APIConnectionErrorV", "deinit"]
+- !private ["12TurnstileWeb18APIConnectionErrorV", "init"]
+- !private ["9Turnstile11AccessTokenC", "string"]
+- !private ["9Turnstile7AccountP", "init"]
+- ["9Turnstile7AccountP", "uniqueID"]
+- ["9Turnstile7AccountP", ""]
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonObject"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "init"]
+- !private ["9Turnstile11CredentialsP", "init"]
+- !private ["9Turnstile11CredentialsP", "string"]
+- ["9Turnstile11CredentialsP", "uniqueID"]
+- ["9Turnstile11CredentialsP", ""]
+- !private ["9Turnstile16CredentialsErrorP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonObject"]
+- !private ["s28CustomDebugStringConvertibleP", "setQueryItems"]
+- !private ["s28CustomDebugStringConvertibleP", "setValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "url"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "setQueryItems"]
+- !private ["s17CustomReflectableP", "setValue"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "url"]
+- ["s23CustomStringConvertibleP", "_code"]
+- ["s23CustomStringConvertibleP", "_domain"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "_getEmbeddedNSError"]
+- ["s23CustomStringConvertibleP", "_userInfo"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonObject"]
+- !private ["s23CustomStringConvertibleP", "setQueryItems"]
+- !private ["s23CustomStringConvertibleP", "setValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "url"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "init"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "jsonObject"]
+- !private ["s9EquatableP", "setQueryItems"]
+- !private ["s9EquatableP", "setValue"]
+- !private ["s9EquatableP", "url"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "description"]
+- !private ["s5ErrorP", "init"]
+- ["s5ErrorP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["12TurnstileWeb8FacebookC", "APIConnectionError"]
+- ["12TurnstileWeb8FacebookC", "AccessToken"]
+- ["12TurnstileWeb8FacebookC", "Account"]
+- !private ["12TurnstileWeb8FacebookC", "Bool"]
+- ["12TurnstileWeb8FacebookC", "Credentials"]
+- ["12TurnstileWeb8FacebookC", "FacebookAccount"]
+- !private ["12TurnstileWeb8FacebookC", "FacebookError"]
+- !private ["12TurnstileWeb8FacebookC", "IncorrectCredentialsError"]
+- !private ["12TurnstileWeb8FacebookC", "InvalidAPIResponse"]
+- !private ["12TurnstileWeb8FacebookC", "JSONSerialization"]
+- ["12TurnstileWeb8FacebookC", "String"]
+- !private ["12TurnstileWeb8FacebookC", "URL"]
+- !private ["12TurnstileWeb8FacebookC", "URLComponents"]
+- !private ["12TurnstileWeb8FacebookC", "URLRequest"]
+- !private ["12TurnstileWeb8FacebookC", "UnsupportedCredentialsError"]
+- !private ["12TurnstileWeb8FacebookC", "appAccessToken"]
+- ["12TurnstileWeb8FacebookC", "authenticate"]
+- !private ["12TurnstileWeb8FacebookC", "clientID"]
+- !private ["12TurnstileWeb8FacebookC", "clientSecret"]
+- ["12TurnstileWeb8FacebookC", "deinit"]
+- ["12TurnstileWeb8FacebookC", "init"]
+- ["12TurnstileWeb8FacebookC", "register"]
+- !private ["12TurnstileWeb8FacebookC", "urlSession"]
+- ["12TurnstileWeb15FacebookAccountV", "AccessToken"]
+- ["12TurnstileWeb15FacebookAccountV", "String"]
+- ["12TurnstileWeb15FacebookAccountV", "accessToken"]
+- ["12TurnstileWeb15FacebookAccountV", "deinit"]
+- ["12TurnstileWeb15FacebookAccountV", "init"]
+- ["12TurnstileWeb15FacebookAccountV", "uniqueID"]
+- ["12TurnstileWeb13FacebookErrorV", "String"]
+- ["12TurnstileWeb13FacebookErrorV", "_code"]
+- ["12TurnstileWeb13FacebookErrorV", "_domain"]
+- ["12TurnstileWeb13FacebookErrorV", "_getEmbeddedNSError"]
+- ["12TurnstileWeb13FacebookErrorV", "_userInfo"]
+- ["12TurnstileWeb13FacebookErrorV", "deinit"]
+- ["12TurnstileWeb13FacebookErrorV", "description"]
+- ["12TurnstileWeb13FacebookErrorV", "init"]
+- !private ["12TurnstileWeb10HTTPClientP", "executeRequest"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "jsonObject"]
+- !private ["s8HashableP", "setQueryItems"]
+- !private ["s8HashableP", "setValue"]
+- !private ["s8HashableP", "url"]
+- !private ["9Turnstile25IncorrectCredentialsErrorV", "init"]
+- !private ["12TurnstileWeb18InvalidAPIResponseV", "deinit"]
+- !private ["12TurnstileWeb18InvalidAPIResponseV", "init"]
+- !private ["So17JSONSerializationC", "jsonObject"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "jsonObject"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "jsonObject"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["12TurnstileWeb6OAuth2C", "APIConnectionError"]
+- ["12TurnstileWeb6OAuth2C", "AccessToken"]
+- ["12TurnstileWeb6OAuth2C", "Account"]
+- !private ["12TurnstileWeb6OAuth2C", "Bool"]
+- ["12TurnstileWeb6OAuth2C", "Credentials"]
+- ["12TurnstileWeb6OAuth2C", "FacebookAccount"]
+- !private ["12TurnstileWeb6OAuth2C", "FacebookError"]
+- !private ["12TurnstileWeb6OAuth2C", "IncorrectCredentialsError"]
+- !private ["12TurnstileWeb6OAuth2C", "InvalidAPIResponse"]
+- !private ["12TurnstileWeb6OAuth2C", "JSONSerialization"]
+- ["12TurnstileWeb6OAuth2C", "String"]
+- !private ["12TurnstileWeb6OAuth2C", "URL"]
+- !private ["12TurnstileWeb6OAuth2C", "URLComponents"]
+- !private ["12TurnstileWeb6OAuth2C", "URLRequest"]
+- !private ["12TurnstileWeb6OAuth2C", "UnsupportedCredentialsError"]
+- ["12TurnstileWeb6OAuth2C", "appAccessToken"]
+- ["12TurnstileWeb6OAuth2C", "authenticate"]
+- !private ["12TurnstileWeb6OAuth2C", "clientID"]
+- !private ["12TurnstileWeb6OAuth2C", "clientSecret"]
+- ["12TurnstileWeb6OAuth2C", "init"]
+- ["12TurnstileWeb6OAuth2C", "register"]
+- !private ["12TurnstileWeb6OAuth2C", "urlSession"]
+- ["12TurnstileWeb6OAuth2C", ""]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["9Turnstile5RealmP", "APIConnectionError"]
+- !private ["9Turnstile5RealmP", "FacebookAccount"]
+- !private ["9Turnstile5RealmP", "FacebookError"]
+- !private ["9Turnstile5RealmP", "IncorrectCredentialsError"]
+- !private ["9Turnstile5RealmP", "InvalidAPIResponse"]
+- !private ["9Turnstile5RealmP", "JSONSerialization"]
+- !private ["9Turnstile5RealmP", "String"]
+- !private ["9Turnstile5RealmP", "URL"]
+- !private ["9Turnstile5RealmP", "URLComponents"]
+- !private ["9Turnstile5RealmP", "URLRequest"]
+- !private ["9Turnstile5RealmP", "UnsupportedCredentialsError"]
+- !private ["9Turnstile5RealmP", "appAccessToken"]
+- ["9Turnstile5RealmP", "authenticate"]
+- !private ["9Turnstile5RealmP", "clientID"]
+- !private ["9Turnstile5RealmP", "clientSecret"]
+- ["9Turnstile5RealmP", "register"]
+- !private ["9Turnstile5RealmP", "urlSession"]
+- ["9Turnstile5RealmP", ""]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "setQueryItems"]
+- !private ["10Foundation20ReferenceConvertibleP", "setValue"]
+- !private ["10Foundation20ReferenceConvertibleP", "url"]
+- !private ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["9Turnstile0A5ErrorP", "_code"]
+- ["9Turnstile0A5ErrorP", "_domain"]
+- ["9Turnstile0A5ErrorP", "_getEmbeddedNSError"]
+- ["9Turnstile0A5ErrorP", "_userInfo"]
+- ["9Turnstile0A5ErrorP", "description"]
+- !private ["9Turnstile0A5ErrorP", "init"]
+- ["9Turnstile0A5ErrorP", ""]
+- !private ["10Foundation3URLV", "init"]
+- !private ["10Foundation13URLComponentsV", "init"]
+- !private ["10Foundation13URLComponentsV", "setQueryItems"]
+- !private ["10Foundation13URLComponentsV", "url"]
+- !private ["10Foundation10URLRequestV", "init"]
+- !private ["10Foundation10URLRequestV", "setValue"]
+- !private ["9Turnstile27UnsupportedCredentialsErrorV", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonObject"]
+- !private ["10Foundation14_MutableBoxingP", "init"]
+- !private ["10Foundation14_MutableBoxingP", "setQueryItems"]
+- !private ["10Foundation14_MutableBoxingP", "url"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "setQueryItems"]
+- !private ["s21_ObjectiveCBridgeableP", "setValue"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "url"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "12TurnstileWeb18APIConnectionErrorV"
+- !private "9Turnstile11AccessTokenC"
+- "9Turnstile7AccountP"
+- !private "s23BidirectionalCollectionP"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- "9Turnstile11CredentialsP"
+- !private "9Turnstile16CredentialsErrorP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s10DictionaryV"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- "s5ErrorP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "12TurnstileWeb8FacebookC"
+- "12TurnstileWeb15FacebookAccountV"
+- "12TurnstileWeb13FacebookErrorV"
+- !private "12TurnstileWeb10HTTPClientP"
+- !private "s8HashableP"
+- !private "9Turnstile25IncorrectCredentialsErrorV"
+- !private "12TurnstileWeb18InvalidAPIResponseV"
+- !private "So17JSONSerializationC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "12TurnstileWeb6OAuth2C"
+- !private "s26RangeReplaceableCollectionP"
+- "9Turnstile5RealmP"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "s8SequenceP"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "9Turnstile0A5ErrorP"
+- !private "10Foundation3URLV"
+- !private "10Foundation13URLComponentsV"
+- !private "10Foundation10URLRequestV"
+- !private "9Turnstile27UnsupportedCredentialsErrorV"
+- !private "s23_BidirectionalIndexableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation14_MutableBoxingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/Turnstile.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "451fc7c6f97c11bf62cb02d46046a910"

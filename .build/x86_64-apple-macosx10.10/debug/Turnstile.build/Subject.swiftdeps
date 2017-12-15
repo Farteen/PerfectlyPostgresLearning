@@ -1,0 +1,105 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Subject"
+- "AuthenticationDetails"
+provides-nominal:
+- "9Turnstile7SubjectC"
+- "9Turnstile21AuthenticationDetailsV"
+provides-member:
+- ["9Turnstile7SubjectC", ""]
+- ["9Turnstile21AuthenticationDetailsV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "Account"
+- "AssignmentPrecedence"
+- "AuthenticationDetails"
+- "Bool"
+- "BooleanLiteralType"
+- "Credentials"
+- !private "Session"
+- "String"
+- "Subject"
+- "TernaryPrecedence"
+- "Turnstile"
+depends-member:
+- ["9Turnstile21AuthenticationDetailsV", "Account"]
+- ["9Turnstile21AuthenticationDetailsV", "Credentials"]
+- ["9Turnstile21AuthenticationDetailsV", "String"]
+- ["9Turnstile21AuthenticationDetailsV", "account"]
+- ["9Turnstile21AuthenticationDetailsV", "credentialType"]
+- ["9Turnstile21AuthenticationDetailsV", "init"]
+- ["9Turnstile21AuthenticationDetailsV", "sessionID"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["9Turnstile5RealmP", "authenticate"]
+- !private ["9Turnstile5RealmP", "register"]
+- !private ["9Turnstile7SessionV", "deinit"]
+- !private ["9Turnstile14SessionManagerP", "createSession"]
+- !private ["9Turnstile14SessionManagerP", "destroySession"]
+- !private ["9Turnstile14SessionManagerP", "restoreAccount"]
+- ["9Turnstile7SubjectC", "AuthenticationDetails"]
+- ["9Turnstile7SubjectC", "Bool"]
+- ["9Turnstile7SubjectC", "Credentials"]
+- !private ["9Turnstile7SubjectC", "Session"]
+- ["9Turnstile7SubjectC", "String"]
+- ["9Turnstile7SubjectC", "Turnstile"]
+- ["9Turnstile7SubjectC", "authDetails"]
+- ["9Turnstile7SubjectC", "authenticated"]
+- ["9Turnstile7SubjectC", "deinit"]
+- ["9Turnstile7SubjectC", "init"]
+- ["9Turnstile7SubjectC", "login"]
+- ["9Turnstile7SubjectC", "logout"]
+- ["9Turnstile7SubjectC", "register"]
+- !private ["9Turnstile7SubjectC", "restore"]
+- !private ["9Turnstile7SubjectC", "turnstile"]
+- !private ["9TurnstileAAC", "realm"]
+- !private ["9TurnstileAAC", "sessionManager"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- "9Turnstile21AuthenticationDetailsV"
+- !private "Sb"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s8HashableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "9Turnstile5RealmP"
+- !private "9Turnstile7SessionV"
+- !private "9Turnstile14SessionManagerP"
+- "9Turnstile7SubjectC"
+- !private "9TurnstileAAC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/TurnstileCrypto.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "0589dce81b513fa0edce4f7574500286"

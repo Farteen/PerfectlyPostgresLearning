@@ -1,0 +1,715 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ResponseReadState"
+- "CURLResponse"
+provides-nominal:
+- "11PerfectCURL17ResponseReadStateO"
+- "11PerfectCURL12CURLResponseC"
+- "11PerfectCURL12CURLResponseC5ErrorV"
+- "11PerfectCURL12CURLResponseC4InfoO"
+- "11PerfectCURL12CURLResponseC4InfoO11StringValueO"
+- "11PerfectCURL12CURLResponseC4InfoO8IntValueO"
+- "11PerfectCURL12CURLResponseC4InfoO11DoubleValueO"
+provides-member:
+- ["11PerfectCURL17ResponseReadStateO", ""]
+- ["11PerfectCURL12CURLResponseC", ""]
+- ["11PerfectCURL12CURLResponseC5ErrorV", ""]
+- ["11PerfectCURL12CURLResponseC4InfoO", ""]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", ""]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", ""]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", ""]
+- ["11PerfectCURL12CURLResponseC", "get"]
+- ["11PerfectCURL12CURLResponseC", "get"]
+- ["11PerfectCURL12CURLResponseC", "get"]
+- ["11PerfectCURL12CURLResponseC", "get"]
+- ["11PerfectCURL12CURLResponseC", "get"]
+- ["11PerfectCURL12CURLResponseC", "complete"]
+- ["11PerfectCURL12CURLResponseC", "complete"]
+- ["11PerfectCURL12CURLResponseC", "url"]
+- ["11PerfectCURL12CURLResponseC", "responseCode"]
+- ["11PerfectCURL12CURLResponseC", "bodyString"]
+- ["11PerfectCURL12CURLResponseC", "bodyJSON"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "<"
+- "=="
+- !private ">="
+- !private "??"
+- "Array"
+- "AssignmentPrecedence"
+- "CURL"
+- !private "CURLE_OK"
+- !private "CURLOPT_HEADERDATA"
+- !private "CURLOPT_HEADERFUNCTION"
+- !private "CURLOPT_WRITEDATA"
+- !private "CURLOPT_WRITEFUNCTION"
+- "CURLRequest"
+- "CURLResponse"
+- "CURLcode"
+- "CastingPrecedence"
+- !private "Dictionary"
+- "Double"
+- "HTTPResponseHeader"
+- "Int"
+- "ResponseReadState"
+- "String"
+- !private "StringLiteralType"
+- "Swift"
+- !private "TernaryPrecedence"
+- !private "UInt32"
+- "UInt8"
+- !private "UTF8Encoding"
+- !private "Unmanaged"
+- !private "UnsafeBufferPointer"
+- !private "UnsafeMutableRawPointer"
+- !private "curl_easy_perform"
+- !private "curl_func"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "filter"]
+- !private ["Sa", "first"]
+- ["Sa", "init"]
+- !private ["Sa", "map"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "baseAddress"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- !private ["s23BidirectionalCollectionP", "filter"]
+- !private ["s23BidirectionalCollectionP", "first"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "jsonDecode"]
+- !private ["s23BidirectionalCollectionP", "makeIterator"]
+- !private ["s23BidirectionalCollectionP", "map"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["s13BinaryIntegerP", "hashValue"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["10PerfectNet28BytesSwappingUnsignedIntegerP", "init"]
+- !private ["11PerfectCURL0B0C", "addSLists"]
+- !private ["11PerfectCURL0B0C", "curl"]
+- !private ["11PerfectCURL0B0C", "ioWait"]
+- !private ["11PerfectCURL0B0C", "perform"]
+- !private ["11PerfectCURL0B0C", "setOption"]
+- !private ["11PerfectCURL0B0C", "strError"]
+- ["11PerfectCURL11CURLRequestC", "POSTFields"]
+- ["11PerfectCURL12CURLResponseC", "Array"]
+- ["11PerfectCURL12CURLResponseC", "CURL"]
+- !private ["11PerfectCURL12CURLResponseC", "CURLE_OK"]
+- !private ["11PerfectCURL12CURLResponseC", "CURLOPT_HEADERDATA"]
+- !private ["11PerfectCURL12CURLResponseC", "CURLOPT_HEADERFUNCTION"]
+- !private ["11PerfectCURL12CURLResponseC", "CURLOPT_WRITEDATA"]
+- !private ["11PerfectCURL12CURLResponseC", "CURLOPT_WRITEFUNCTION"]
+- ["11PerfectCURL12CURLResponseC", "CURLRequest"]
+- ["11PerfectCURL12CURLResponseC", "CURLResponse"]
+- ["11PerfectCURL12CURLResponseC", "CURLcode"]
+- ["11PerfectCURL12CURLResponseC", "Confirmation"]
+- ["11PerfectCURL12CURLResponseC", "Double"]
+- ["11PerfectCURL12CURLResponseC", "Error"]
+- ["11PerfectCURL12CURLResponseC", "HTTPResponseHeader"]
+- ["11PerfectCURL12CURLResponseC", "Header"]
+- ["11PerfectCURL12CURLResponseC", "Info"]
+- ["11PerfectCURL12CURLResponseC", "Int"]
+- ["11PerfectCURL12CURLResponseC", "ResponseReadState"]
+- ["11PerfectCURL12CURLResponseC", "String"]
+- ["11PerfectCURL12CURLResponseC", "Swift"]
+- !private ["11PerfectCURL12CURLResponseC", "UInt32"]
+- ["11PerfectCURL12CURLResponseC", "UInt8"]
+- !private ["11PerfectCURL12CURLResponseC", "UTF8Encoding"]
+- !private ["11PerfectCURL12CURLResponseC", "Unmanaged"]
+- !private ["11PerfectCURL12CURLResponseC", "UnsafeBufferPointer"]
+- !private ["11PerfectCURL12CURLResponseC", "UnsafeMutableRawPointer"]
+- !private ["11PerfectCURL12CURLResponseC", "addBodyData"]
+- !private ["11PerfectCURL12CURLResponseC", "addHeaderLine"]
+- ["11PerfectCURL12CURLResponseC", "bodyBytes"]
+- ["11PerfectCURL12CURLResponseC", "bodyJSON"]
+- ["11PerfectCURL12CURLResponseC", "bodyString"]
+- ["11PerfectCURL12CURLResponseC", "complete"]
+- ["11PerfectCURL12CURLResponseC", "curl"]
+- !private ["11PerfectCURL12CURLResponseC", "curl_easy_perform"]
+- !private ["11PerfectCURL12CURLResponseC", "curl_func"]
+- ["11PerfectCURL12CURLResponseC", "deinit"]
+- ["11PerfectCURL12CURLResponseC", "get"]
+- ["11PerfectCURL12CURLResponseC", "headers"]
+- ["11PerfectCURL12CURLResponseC", "init"]
+- !private ["11PerfectCURL12CURLResponseC", "innerComplete"]
+- ["11PerfectCURL12CURLResponseC", "postFields"]
+- ["11PerfectCURL12CURLResponseC", "readState"]
+- ["11PerfectCURL12CURLResponseC", "responseCode"]
+- !private ["11PerfectCURL12CURLResponseC", "setCURLOpts"]
+- ["11PerfectCURL12CURLResponseC", "url"]
+- !private ["11PerfectCURL16CURLResponseInfoP", "get"]
+- ["11PerfectCURL16CURLResponseInfoP", "hashValue"]
+- !private ["11PerfectCURL16CURLResponseInfoP", "responseCode"]
+- !private ["11PerfectCURL16CURLResponseInfoP", "url"]
+- !private ["SC8CURLcodeV", "init"]
+- !private ["SC8CURLcodeV", "rawValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "filter"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "hashValue"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonDecode"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "baseAddress"]
+- !private ["s10CollectionP", "count"]
+- !private ["s10CollectionP", "filter"]
+- !private ["s10CollectionP", "first"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "jsonDecode"]
+- !private ["s10CollectionP", "makeIterator"]
+- !private ["s10CollectionP", "map"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "assumingMemoryBound"]
+- !private ["s10ComparableP", "hashValue"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "jsonDecode"]
+- !private ["s10ComparableP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "assumingMemoryBound"]
+- !private ["s28CustomDebugStringConvertibleP", "baseAddress"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "filter"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonDecode"]
+- !private ["s28CustomDebugStringConvertibleP", "makeIterator"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "status"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "assumingMemoryBound"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "jsonDecode"]
+- !private ["s29CustomPlaygroundQuickLookableP", "subscript"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "assumingMemoryBound"]
+- !private ["s17CustomReflectableP", "filter"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "jsonDecode"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "status"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "filter"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonDecode"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "filter"]
+- !private ["s9DecodableP", "first"]
+- !private ["s9DecodableP", "hashValue"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "jsonDecode"]
+- !private ["s9DecodableP", "map"]
+- !private ["s9DecodableP", "status"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "__derived_enum_equals"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "appConnectTime"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "connectTime"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "contentLengthDownload"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "contentLengthUpload"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "deinit"]
+- !private ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "get"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "hashValue"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "nameLookupTime"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "preTransferTime"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "redirectTime"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "sizeDownload"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "sizeUpload"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "speedDownload"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "speedUpload"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "startTransferTime"]
+- ["11PerfectCURL12CURLResponseC4InfoO11DoubleValueO", "totalTime"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "filter"]
+- !private ["s9EncodableP", "first"]
+- !private ["s9EncodableP", "hashValue"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "jsonDecode"]
+- !private ["s9EncodableP", "map"]
+- !private ["s9EncodableP", "status"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "assumingMemoryBound"]
+- !private ["s9EquatableP", "body"]
+- !private ["s9EquatableP", "get"]
+- ["s9EquatableP", "hashValue"]
+- !private ["s9EquatableP", "headers"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "jsonDecode"]
+- !private ["s9EquatableP", "rawValue"]
+- !private ["s9EquatableP", "responseCode"]
+- ["s9EquatableP", "status"]
+- !private ["s9EquatableP", "subscript"]
+- !private ["s9EquatableP", "url"]
+- ["s9EquatableP", ""]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "CURLResponse"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "CURLcode"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "Int"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "String"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "_code"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "_domain"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "_getEmbeddedNSError"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "_userInfo"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "code"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "deinit"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "description"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "init"]
+- ["11PerfectCURL12CURLResponseC5ErrorV", "response"]
+- !private ["s5ErrorP", "Int"]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "code"]
+- !private ["s5ErrorP", "description"]
+- !private ["s5ErrorP", "init"]
+- !private ["s5ErrorP", "response"]
+- ["s5ErrorP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "filter"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "jsonDecode"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "status"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "jsonDecode"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "jsonDecode"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- ["11PerfectHTTP18HTTPResponseHeaderO", "Name"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "assumingMemoryBound"]
+- !private ["s8HashableP", "body"]
+- !private ["s8HashableP", "get"]
+- ["s8HashableP", "hashValue"]
+- !private ["s8HashableP", "headers"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "jsonDecode"]
+- !private ["s8HashableP", "responseCode"]
+- ["s8HashableP", "status"]
+- !private ["s8HashableP", "subscript"]
+- !private ["s8HashableP", "url"]
+- ["s8HashableP", ""]
+- ["11PerfectCURL12CURLResponseC4InfoO", "DoubleValue"]
+- ["11PerfectCURL12CURLResponseC4InfoO", "IntValue"]
+- ["11PerfectCURL12CURLResponseC4InfoO", "StringValue"]
+- !private ["Si", "hashValue"]
+- !private ["Si", "init"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "__derived_enum_equals"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "conditionUnmet"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "deinit"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "fileTime"]
+- !private ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "get"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "hashValue"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "headerSize"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "httpAuthAvail"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "httpConnectCode"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "localPort"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "numConnects"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "osErrno"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "primaryPort"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "proxyAuthAvail"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "redirectCount"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "requestSize"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "responseCode"]
+- ["11PerfectCURL12CURLResponseC4InfoO8IntValueO", "sslVerifyResult"]
+- !private ["10PerfectLib15JSONConvertibleP", "_getBuiltinLogicValue"]
+- !private ["10PerfectLib15JSONConvertibleP", "append"]
+- !private ["10PerfectLib15JSONConvertibleP", "filter"]
+- !private ["10PerfectLib15JSONConvertibleP", "first"]
+- !private ["10PerfectLib15JSONConvertibleP", "hashValue"]
+- ["10PerfectLib15JSONConvertibleP", "init"]
+- !private ["10PerfectLib15JSONConvertibleP", "jsonDecode"]
+- !private ["10PerfectLib15JSONConvertibleP", "map"]
+- !private ["10PerfectLib15JSONConvertibleP", "status"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "jsonDecode"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "jsonDecode"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "filter"]
+- !private ["s17MutableCollectionP", "first"]
+- ["s17MutableCollectionP", "init"]
+- !private ["s17MutableCollectionP", "map"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "jsonDecode"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "jsonDecode"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderReadingP", "jsonDecode"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So21NSItemProviderWritingP", "jsonDecode"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "jsonDecode"]
+- !private ["So8NSObjectC", "jsonDecode"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "jsonDecode"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "jsonDecode"]
+- !private ["So8NSStringC", "init"]
+- !private ["So8NSStringC", "jsonDecode"]
+- !private ["11PerfectHTTP18HTTPResponseHeaderO4NameO", "fromStandard"]
+- !private ["11PerfectHTTP18HTTPResponseHeaderO4NameO", "standardName"]
+- !private ["11PerfectHTTP18HTTPResponseHeaderO4NameO", "url"]
+- !private ["s7NumericP", "hashValue"]
+- !private ["s7NumericP", "init"]
+- !private ["Sq", "status"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "baseAddress"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "filter"]
+- !private ["s22RandomAccessCollectionP", "first"]
+- ["s22RandomAccessCollectionP", "init"]
+- !private ["s22RandomAccessCollectionP", "makeIterator"]
+- !private ["s22RandomAccessCollectionP", "map"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "filter"]
+- !private ["s26RangeReplaceableCollectionP", "first"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "jsonDecode"]
+- !private ["s26RangeReplaceableCollectionP", "map"]
+- !private ["s16RawRepresentableP", "init"]
+- !private ["s16RawRepresentableP", "rawValue"]
+- ["11PerfectCURL17ResponseReadStateO", "__derived_enum_equals"]
+- ["11PerfectCURL17ResponseReadStateO", "body"]
+- ["11PerfectCURL17ResponseReadStateO", "deinit"]
+- ["11PerfectCURL17ResponseReadStateO", "hashValue"]
+- ["11PerfectCURL17ResponseReadStateO", "headers"]
+- ["11PerfectCURL17ResponseReadStateO", "status"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "baseAddress"]
+- !private ["s8SequenceP", "count"]
+- !private ["s8SequenceP", "filter"]
+- !private ["s8SequenceP", "first"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "jsonDecode"]
+- !private ["s8SequenceP", "makeIterator"]
+- !private ["s8SequenceP", "map"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s13SignedIntegerP", "hashValue"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s10StrideableP", "assumingMemoryBound"]
+- !private ["s10StrideableP", "hashValue"]
+- !private ["s10StrideableP", "init"]
+- !private ["s10StrideableP", "subscript"]
+- !private ["SS", "init"]
+- !private ["SS", "jsonDecode"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s14StringProtocolP", "jsonDecode"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "__derived_enum_equals"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "contentType"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "deinit"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "ftpEntryPath"]
+- !private ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "get"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "hashValue"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "localIP"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "primaryIP"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "redirectURL"]
+- ["11PerfectCURL12CURLResponseC4InfoO11StringValueO", "url"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "jsonDecode"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "jsonDecode"]
+- !private ["s6UInt32V", "init"]
+- !private ["10PerfectLib12UTF8EncodingV", "encode"]
+- !private ["s9UnmanagedV", "fromOpaque"]
+- !private ["s9UnmanagedV", "passUnretained"]
+- !private ["s9UnmanagedV", "takeUnretainedValue"]
+- !private ["s9UnmanagedV", "toOpaque"]
+- !private ["SR", "baseAddress"]
+- !private ["SR", "count"]
+- !private ["SR", "init"]
+- !private ["SR", "makeIterator"]
+- !private ["SR", "subscript"]
+- !private ["Sv", "assumingMemoryBound"]
+- !private ["Sv", "init"]
+- !private ["SP", "subscript"]
+- !private ["s15UnsignedIntegerP", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "filter"]
+- !private ["s14_ArrayProtocolP", "first"]
+- ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "baseAddress"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- !private ["s23_BidirectionalIndexableP", "filter"]
+- !private ["s23_BidirectionalIndexableP", "first"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "jsonDecode"]
+- !private ["s23_BidirectionalIndexableP", "makeIterator"]
+- !private ["s23_BidirectionalIndexableP", "map"]
+- !private ["s23_BidirectionalIndexableP", "subscript"]
+- !private ["s18_BitwiseOperationsP", "hashValue"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "filter"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "jsonDecode"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "jsonDecode"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "jsonDecode"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "jsonDecode"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "jsonDecode"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "jsonDecode"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "baseAddress"]
+- !private ["s10_IndexableP", "count"]
+- !private ["s10_IndexableP", "filter"]
+- !private ["s10_IndexableP", "first"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "jsonDecode"]
+- !private ["s10_IndexableP", "makeIterator"]
+- !private ["s10_IndexableP", "map"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "baseAddress"]
+- !private ["s14_IndexableBaseP", "count"]
+- !private ["s14_IndexableBaseP", "filter"]
+- !private ["s14_IndexableBaseP", "first"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "jsonDecode"]
+- !private ["s14_IndexableBaseP", "makeIterator"]
+- !private ["s14_IndexableBaseP", "map"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonDecode"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "filter"]
+- !private ["s17_MutableIndexableP", "first"]
+- ["s17_MutableIndexableP", "init"]
+- !private ["s17_MutableIndexableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "filter"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "jsonDecode"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "status"]
+- !private ["s26_OptionalNilComparisonTypeV", "status"]
+- !private ["s8_PointerP", "assumingMemoryBound"]
+- !private ["s8_PointerP", "init"]
+- !private ["s8_PointerP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "baseAddress"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "filter"]
+- !private ["s22_RandomAccessIndexableP", "first"]
+- ["s22_RandomAccessIndexableP", "init"]
+- !private ["s22_RandomAccessIndexableP", "makeIterator"]
+- !private ["s22_RandomAccessIndexableP", "map"]
+- !private ["s22_RandomAccessIndexableP", "subscript"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "filter"]
+- !private ["s26_RangeReplaceableIndexableP", "first"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "jsonDecode"]
+- !private ["s26_RangeReplaceableIndexableP", "map"]
+- !private ["s11_StrideableP", "assumingMemoryBound"]
+- !private ["s11_StrideableP", "hashValue"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s11_StrideableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "jsonDecode"]
+depends-nominal:
+- "Sa"
+- "s23BidirectionalCollectionP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "10PerfectNet28BytesSwappingUnsignedIntegerP"
+- !private "11PerfectCURL0B0C"
+- "11PerfectCURL11CURLRequestC"
+- "11PerfectCURL12CURLResponseC"
+- "11PerfectCURL16CURLResponseInfoP"
+- !private "SC8CURLcodeV"
+- "s7CVarArgP"
+- "s10CollectionP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "11PerfectCURL12CURLResponseC4InfoO11DoubleValueO"
+- "s9EncodableP"
+- "s9EquatableP"
+- "11PerfectCURL12CURLResponseC5ErrorV"
+- "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "11PerfectHTTP18HTTPResponseHeaderO"
+- "s8HashableP"
+- "11PerfectCURL12CURLResponseC4InfoO"
+- !private "Si"
+- "11PerfectCURL12CURLResponseC4InfoO8IntValueO"
+- "10PerfectLib15JSONConvertibleP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "s17MutableCollectionP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "11PerfectHTTP18HTTPResponseHeaderO4NameO"
+- !private "s7NumericP"
+- !private "Sq"
+- "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- "11PerfectCURL17ResponseReadStateO"
+- "s8SequenceP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s10StrideableP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- "11PerfectCURL12CURLResponseC4InfoO11StringValueO"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s6UInt32V"
+- !private "10PerfectLib12UTF8EncodingV"
+- !private "s9UnmanagedV"
+- !private "SR"
+- !private "Sv"
+- !private "SP"
+- !private "s15UnsignedIntegerP"
+- "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s18_BitwiseOperationsP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s26_OptionalNilComparisonTypeV"
+- !private "s8_PointerP"
+- "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s11_StrideableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectHTTP.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectLib.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectThread.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectCrypto.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/x86_64-apple-macosx10.10/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../cms.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-libcurl.git--6269865819486613555/module.modulemap"
+- "/Users/glasses/Documents/GitHub/Perfect-Turnstile-PostgreSQL-Demo/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "27662ba5f5900c7ca022796e02fb2c1d"
